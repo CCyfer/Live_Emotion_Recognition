@@ -14,7 +14,7 @@
 
 - Execute the test.py file to run the Emotion Detection.
 
-- Enjoy Deep Learning.
+- Have a nice day 😄
 
 
 
